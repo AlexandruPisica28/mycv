@@ -1,10 +1,12 @@
 // Import our custom CSS
 import './scss/styles.scss'
 
+import GLightbox from 'glightbox';
+
 // Import all of Bootstrap's JS
 import * as bootstrap from 'bootstrap'
 
-import './assets/js/main.js';
+import './js/main.js';
 
 adaugam in index.js 
 import particles from 'particles.js'

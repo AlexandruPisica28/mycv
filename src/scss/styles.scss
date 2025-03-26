@@ -3,11 +3,13 @@
 
 @use "~bootstrap-icons/font/bootstrap-icons.scss";
 @use "general";
+@use "portfolio";
 @use "base";
 @use "header";
 @use "banner";
 @use "social";
 @use "footer";
+
 
 @use "tot";
 $bootstrap-icons-font-dir: "~bootstrap-icons/font/fonts";

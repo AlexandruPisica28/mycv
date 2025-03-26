@@ -1,3 +1,5 @@
+import GLightbox from 'glightbox';
+
 
 (function () {
     "use strict";

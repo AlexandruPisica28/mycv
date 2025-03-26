@@ -109,6 +109,7 @@ module.exports = {
                         options: {
                             sassOptions: {
                                 outputStyle: "compressed",
+                                charset: false
                             }
                         }
                     }
